@@ -1,17 +1,18 @@
 {
   "name": "wamp2.rt",
   "version": "0.3.0",
-  "description": "Basic WebSocket Application Messaging Protocol (WAMP) V2 router library",
+  "description": "Basic WebSocket Application Messaging Protocol (WAMP) V2 router library ()",
   "author": {
     "name": "David Corvoysier",
     "email": "david.corvoysier@orange.com"
   },
   "contributors": [
-    "Dominique ALOË <daloe.ext@orange.com>"
+    "Dominique ALOË <daloe.ext@orange.com>",
+    "Vlaid Balin <gaperton@gmail.com>"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Orange-OpenSource/wamp.rt.git"
+    "url": "https://github.com/lajosbencz/wamp2.rt"
   },
   "dependencies": {
     "commander": "*",
@@ -23,6 +24,6 @@
   },
   "main": "lib/wamp.rt",
   "engines": {
-    "node": ">=0.10.0"
+    "node": ">=10.0.0"
   }
 }
