@@ -1,5 +1,5 @@
 {
-  "name": "wamp.rt",
+  "name": "wamp2.rt",
   "version": "0.3.0",
   "description": "Basic WebSocket Application Messaging Protocol (WAMP) V2 router library",
   "author": {
